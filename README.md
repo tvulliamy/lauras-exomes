@@ -1,2 +1,3 @@
 # lauras-exomes
-lauras varinat calling pipeline
+lauras variant calling pipeline
+Tom's learning contribution
